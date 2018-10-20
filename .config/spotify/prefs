@@ -1,0 +1,15 @@
+autologin.canonical_username="crickmusic"
+autologin.blob="qz1ZHqG0JABdWJVL9cu4KopK3OVDiJo91dtCVZ/Uv5xWHPaBSSuHovseHB4eHhexLaY5lwJv3/m9L4HrLyBv8kWcA3ac6oxB5LnyjB1HngRQq3CDTLQTrh4U3i1I4teiGy43vLPlDOAEZqjXEXrnKQZXr6WXKihw6f6lbV8D7Kc="
+autologin.username="crickmusic"
+autologin.saved_credentials="{\"crickmusic\":[\"crickmusic\",\"qz1ZHqG0JABdWJVL9cu4KopK3OVDiJo91dtCVZ/Uv5xWHPaBSSuHovseHB4eHhexLaY5lwJv3/m9L4HrLyBv8kWcA3ac6oxB5LnyjB1HngRQq3CDTLQTrh4U3i1I4teiGy43vLPlDOAEZqjXEXrnKQZXr6WXKihw6f6lbV8D7Kc=\"]}"
+core.csrf_tokens="*.spotify.com|1ccc2dbfb97f015994f6238e8aca1d51|605530067"
+core.clock_delta=-7198
+storage.last-location="/home/toby/.cache/spotify/Storage"
+app.window.position.height=600
+app.autostart-configured=true
+app.window.position.saved=true
+app.window.position.y=242
+app.last-launched-version="1.0.80.480.g51b03ac3"
+app.autostart-mode=""
+app.window.position.x=560
+app.window.position.width=800

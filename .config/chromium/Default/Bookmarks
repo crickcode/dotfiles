@@ -1,0 +1,113 @@
+{
+   "checksum": "6e5bfd606e4f3e7344d210ccb5c24f29",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13182217684599860",
+            "id": "20",
+            "meta_info": {
+               "last_visited_desktop": "13182217684600903"
+            },
+            "name": "[GitHub] Please verify your email address. - crickcode@gmail.com - Gmail",
+            "sync_transaction_version": "3",
+            "type": "url",
+            "url": "https://mail.google.com/mail/u/0/#inbox/FMfcgxvzKkrBTcMnxxbMXpzMngHvXvSB"
+         }, {
+            "date_added": "13182217694011680",
+            "id": "21",
+            "meta_info": {
+               "last_visited_desktop": "13183513312734243"
+            },
+            "name": "YouTube",
+            "sync_transaction_version": "48",
+            "type": "url",
+            "url": "https://www.youtube.com/"
+         }, {
+            "date_added": "13182632141172696",
+            "id": "24",
+            "meta_info": {
+               "last_visited_desktop": "13184178843378600"
+            },
+            "name": "Dateien – OneDrive",
+            "sync_transaction_version": "67",
+            "type": "url",
+            "url": "https://htwgkonstanzde-my.sharepoint.com/personal/tobias_brenner_htwg-konstanz_de/_layouts/15/onedrive.aspx"
+         }, {
+            "date_added": "13182995878768440",
+            "id": "27",
+            "meta_info": {
+               "last_visited_desktop": "13183128881811962"
+            },
+            "name": "Cricki",
+            "sync_transaction_version": "9",
+            "type": "url",
+            "url": "https://github.com/cricki"
+         }, {
+            "date_added": "13182632190957146",
+            "id": "25",
+            "meta_info": {
+               "last_visited_desktop": "13184245291124681"
+            },
+            "name": "Tobias @ Schule",
+            "sync_transaction_version": "74",
+            "type": "url",
+            "url": "https://htwgkonstanzde-my.sharepoint.com/:o:/r/personal/tobias_brenner_htwg-konstanz_de/_layouts/15/WopiFrame.aspx?sourcedoc=%7B6C5A4DEB-E07B-4EA2-8619-FD8290475872%7D&file=Tobias%20@%20Schule&action=default&RootFolder=%2fpersonal%2ftobias%5fbrenner%5fhtwg%2dkonstanz%5fde%2fDocuments%2fNotizb%c3%bccher%2fTobias%20%40%20Schule&wdo=6&wdorigin=applauncher"
+         }, {
+            "date_added": "13183129793115091",
+            "id": "29",
+            "meta_info": {
+               "last_visited_desktop": "13184243617460679"
+            },
+            "name": "Moodle HTWG Konstanz",
+            "sync_transaction_version": "72",
+            "type": "url",
+            "url": "https://moodle.htwg-konstanz.de/moodle/"
+         }, {
+            "date_added": "13183638488530359",
+            "id": "31",
+            "meta_info": {
+               "last_visited_desktop": "13183638488531644"
+            },
+            "name": "dei",
+            "sync_transaction_version": "61",
+            "type": "url",
+            "url": "https://github.com/Jguer/yay"
+         }, {
+            "date_added": "13184245544183344",
+            "id": "33",
+            "meta_info": {
+               "last_visited_desktop": "13184245544184675"
+            },
+            "name": "Microsoft PowerPoint - 02_Konzeptueller_DB-Entwurf_DBIS-1.pptx",
+            "sync_transaction_version": "77",
+            "type": "url",
+            "url": "file:///home/toby/Downloads/02_Konzeptueller_DB-Entwurf_DBIS-1%20(2).pdf"
+         } ],
+         "date_added": "13182217407315377",
+         "date_modified": "13184245544183344",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13182217407315384",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "sync_transaction_version": "3",
+         "type": "folder"
+      },
+      "sync_transaction_version": "77",
+      "synced": {
+         "children": [  ],
+         "date_added": "13182217407315385",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
